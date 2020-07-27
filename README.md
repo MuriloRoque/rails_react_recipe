@@ -1,2 +1,24 @@
-# recipes_for_every_ocasion
-In this project, you are able to create, view, and delete recipes using a React interface styled with Bootstrap. Created with Ruby on Rails, React and Bootstrap.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
