@@ -35,8 +35,8 @@ In this project I:
 - Run `bundle install`;
 - Run `npm install`;
 - Run `rails db:create`;
-- Run `rails db:seed`;
 - Run `rails db:migrate`;
+- Run `rails db:seed`;
 - Run `rails s`;
 - Open your browser and type `localhost:3000`.
 
